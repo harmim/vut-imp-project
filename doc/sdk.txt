@@ -1,0 +1,2 @@
+SDK Download: https://mcuxpresso.nxp.com/en/welcome
+SDK API: http://mcuxpresso.nxp.com/apidoc/index.html
