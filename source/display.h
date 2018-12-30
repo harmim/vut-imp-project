@@ -1,8 +1,11 @@
 /**
  * VUT FIT IMP project - heart rate measurement.
  *
+ * original
+ *
  * @brief LED display interface.
- * @author Dominik Harmim <xharmi00@stud.fit.vutbr.cz>
+ * @author Dominik Harmim (xharmi00) <xharmi00@stud.fit.vutbr.cz>
+ * @date 30.12.2018
  */
 
 
